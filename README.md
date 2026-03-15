@@ -8,11 +8,14 @@ I am a final-year **Information Technology** student at **Pamantasan ng Lungsod 
 
 ## 🛠️ My Technical Toolkit
 
-| Category | Tools & Languages |
 | **Technical Art & Game Dev** | Unity3D, Roblox Studio, Blender (3D Modeling), Asset Optimization |
+
 | **Programming** | C#, C++, Python, Java, Roblox Lua, JavaScript, TypeScript, PHP |
+
 | **Web & Mobile** | React, Next.js, Angular, Ionic, TailwindCSS, Firebase, PostgreSQL |
+
 | **AI & Robotics** | OpenCV, CNN (Machine Learning), Arduino, Dijkstra’s Algorithm |
+
 | **QA & Tools** | Functional/Non-functional Testing, Jira, Trello, Git, Linux, Bash |
 
 ---
