@@ -8,7 +8,7 @@ I am a final-year **Information Technology** student at **Pamantasan ng Lungsod 
 
 ## 🛠️ My Technical Toolkit
 
-| **Technical Art & Game Dev** | Unity3D, Roblox Studio, Blender (3D Modeling), Asset Optimization |
+| **Technical Art & Game Dev** | Unity3D, Roblox Studio, Maya, Blender (3D Modeling), Asset Optimization |
 
 | **Programming** | C#, C++, Python, Java, Roblox Lua, JavaScript, TypeScript, PHP |
 
