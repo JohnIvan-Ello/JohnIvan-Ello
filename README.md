@@ -1,6 +1,6 @@
 # Hi there, I'm John Ivan Ello 👋 
 
-### 🚀 Summa Cum Laude | Game Developer & QA Team Leader | AI & Robotics Enthusiast
+### 🚀 Summa Cum Laude | Technical Artist & Game Developer  | AI & Robotics Enthusiast | QA Lead
 
 I am a final-year **Information Technology** student at **Pamantasan ng Lungsod ng Maynila**, driven by the intersection of software quality, immersive game environments, and autonomous systems. Currently, I am honing my skills as a **Game Developer & QA Team Lead Intern** at Highly Succeed Inc.
 
