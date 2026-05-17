@@ -1,61 +1,67 @@
-# Hi there, I'm John Ivan Ello 👋 
+# Hi there, I'm John Ivan P. Ello 👋 
 
-### 🚀 Summa Cum Laude | Technical Artist & Game Developer  | AI & Robotics Enthusiast | QA Lead
+### 🚀 Network Engineer | CCNA Certified | Summa Cum Laude | Game Developer
 
-I am a final-year **Information Technology** student at **Pamantasan ng Lungsod ng Maynila**, driven by the intersection of software quality, immersive game environments, and autonomous systems. Currently, I am honing my skills as a **Game Developer & QA Team Lead Intern** at Highly Succeed Inc.
+I am a highly driven Network Engineer and Summa Cum Laude graduate in Information Systems from the Pamantasan ng Lungsod ng Maynila. Holding a valid **Cisco Certified Network Associate (CCNA 200-301)** certification and backed by heavy hands-on enterprise simulator training, I specialize in designing, configuring, and maintaining scalable, high-availability infrastructure. I leverage a unique background in systems development to bring an automation-mindset and rigorous analytical troubleshooting to enterprise core and edge networks.
+
+---
+
+## 📜 Certifications & Professional Training
+
+* 🏅 **Cisco Certified Network Associate (CCNA 200-301)** – Cisco (Certified April 2026)
+* ⚙️ **CCNA Technical Training: Hands-on Hardware Intensive (60 Hours)** – Mnet Solutions, Inc.
+* 🎓 **Networking Basics** – Cisco Networking Academy
+* 🔢 **Mastering CCNA Subnetting** – Mnet Solutions, Inc.
 
 ---
 
 ## 🛠️ My Technical Toolkit
 
-| **Technical Art & Game Dev** | Maya, Blender (3D Modeling), Unity3D, Roblox Studio,  Asset Optimization |
-
-| **Programming** | C#, C++, Python, Java, Roblox Lua, JavaScript, TypeScript, PHP |
-
-| **Web & Mobile** | React, Next.js, Angular, Ionic, TailwindCSS, Firebase, PostgreSQL |
-
-| **AI & Robotics** | OpenCV, CNN (Machine Learning), Arduino, Dijkstra’s Algorithm |
-
-| **QA & Tools** | Functional/Non-functional Testing, Jira, Trello, Git, Linux, Bash |
-
----
-
-## 🌟 Featured Projects
-
-### 🤖 [AquaNova]
-**AI-Powered Aquatic Trash Collector | Published Capstone Project**
-* Designed an autonomous robot using **whale-inspired suction** and solar power.
-* Implemented **CNN-based real-time waste detection** and GPS-guided navigation.
-* *Keywords: Python, OpenCV, Arduino, Path Planning.*
-
-### 🎮 [SCP Underground Lab]
-**Large-scale Game Level Design Prototype**
-* Solo-developed an immersive environment with atmospheric lighting and sci-fi interiors.
-* Created custom 3D assets in **Blender** for enhanced spatial storytelling.
-* *Keywords: Roblox Studio, 3D Modeling, Game Design.*
-
-### 🛒 [Haribon Estate E-Commerce]
-**Project Manager & Full Stack Developer**
-* Developed a responsive cross-platform app with secure payment processing.
-* *Keywords: Ionic Angular, Firebase, Project Management.*
+| **Category** | Technologies & Protocols |
+| :--- | :--- |
+| **Routing & Switching** | IPv4/IPv6, Subnetting (VLSM), VLAN segmentation, 802.1Q Trunking, Inter-VLAN Routing |
+| **Routing Protocols** | OSPFv2/v3, EIGRP, BGP (eBGP & iBGP), RIPv2/RIPng, Static & Floating Default Routing |
+| **High Availability & HA** | EtherChannel (LACP), STP/RSTP, HSRP, VRRP, IP SLA Path Tracking |
+| **Network Security & IP Services** | Standard/Extended ACLs, NAT/PAT (NAT Overload), DHCP & DHCP Relay (IP Helper), DNS, NTP, Switch Port Security, VPNs (IPsec), AAA/RADIUS, QoS |
+| **Tools & Monitoring** | GNS3, Cisco Packet Tracer, EVE-NG, Wireshark, PuTTY/TeraTerm, SolarWinds, PRTG Network Monitor, Nmap |
+| **Automation & Systems** | Python, Linux (Ubuntu/CentOS), Windows Server, Bash, Ansible, REST APIs, JSON, Git |
 
 ---
 
-## 📈 Experience & Leadership
+## 🌟 Featured Network Architectures
 
-* 🛡️ **Highly Succeed Inc. (Intern):** Leading a QA team in functional and non-functional testing for the *Unleash App Pet Game*.
-* 🎓 **Google Developer Groups (PLM):** Volunteering as a Game Development lead to mentor students in C# and design patterns.
-* ☁️ **AWS Cloud Club:** Hosting "Study Jams" to guide students through 3D modeling and Roblox Lua scripting.
-* 💼 **Microsoft Student Community:** Serving as External Relations Director to bridge the gap between students and industry pros.
+### 🌐 [Enterprise Campus, WAN & BGP Infrastructure Simulation]
+**Comprehensive Network Architecture & Protocol Validation Lab (GNS3 & Packet Tracer)**
+* **Multi-AS Border Gateway Protocol:** Engineered multi-provider topologies utilizing eBGP and iBGP peering, manually resolving iBGP split-horizon rules using `next-hop-self` policies to ensure internal transit prefix reachability.
+* **Redundancy & High Availability:** Implemented dual-stack (IPv4/IPv6) Floating Static Routes alongside EtherChannel (LACP) and STP/RSTP to eliminate Layer 2 loops and build automated path failover for 99.9% simulation uptime.
+* **Infrastructure Layer Hardening:** Deployed Standard and Extended Access Control Lists (ACLs), customized dynamic NAT/PAT translation engines across simulated ISP links, and configured strict Switch Port Security to mitigate MAC-flooding.
+* **Centralized Address Allocation:** Architected cross-segment DHCP Server topologies utilizing Layer 3 DHCP Relay Agents (`ip helper-address`) to centralize IP allocation across isolated broadcast domains.
+
+### 🤖 [AquaNova: Remote Autonomous Network System]
+**Published Capstone Project | Wireless & RF Network Systems Architect**
+* Architected a robust multi-node RF/WiFi communication architecture to establish a continuous, real-time telemetry link between autonomous watercraft units and ground control stations.
+* Optimized data packet transmission protocols across variable aquatic environments, achieving a sustained 92% network uptime and ensuring reliable, continuous system operations with minimal packet loss.
 
 ---
 
-## 🏆 Achievements
+## 📈 Technical Experience & Leadership
 
-* 🏅 **College Academic Excellence Award** (Consistent Rank 1)
-* 🥇 **Gold Medalist** - Manila Young Investors Association 2019
-* 🥉 **Bronze Medalist** - IIA International Innovation Fair (Robotics)
-* 🚀 **Participant** - Globe Feel The 5G & GCash ImagNation Hackathons 2025
+* 🛡️ **Highly Succeed Inc.** | *Technical Operations Lead Intern* (Jan 2026 – Apr 2026)
+  * Coordinated a technical team of 40 interns to streamline task distribution, infrastructure workflows, and milestone deliveries.
+  * Led incident resolution and network maintenance procedures, utilizing advanced troubleshooting to reduce system downtime by 20%.
+  * Monitored network performance and infrastructure availability metrics, driving a proactive deployment culture.
+* 🎓 **AWS Cloud Club & Google Developer Groups** | *Technical Mentor*
+  * Hosted technical "Study Jam" workshops as SkillBuilder Lead, focusing on fundamental systems logic and networking projects to upskill 50+ students.
+  * Developed specialized learning materials and hands-on labs, resulting in a 40% increase in student engagement.
+
+---
+
+## 🏆 Academic & Technical Achievements
+
+* 🏅 **Summa Cum Laude** – BS in Information Systems, Pamantasan ng Lungsod ng Maynila (PLM)
+* 🏅 **College Academic Excellence Award (2025)** – CISTM (Consistent Rank 1 of the Batch)
+* 🥇 **Gold Medalist** – Manila Young Investors Association
+* 🚀 **Network/Hackathon Competitor** – Globe Feel The 5G, GCash ImagNation, & 13th UMAK I.T. Skills Olympic
 
 ---
 
@@ -63,7 +69,8 @@ I am a final-year **Information Technology** student at **Pamantasan ng Lungsod 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/johnivanello/)
 - 📧 [Email](mailto:1ello.johnivan03@gmail.com)
-- 📍 Manila, Philippines
+- 🌐 [Portfolio Website](https://johnivanello.vercel.app/)
+- 📍 Manila, Metro Manila, Philippines
 
 ---
-*“Designs Systems, Creates Worlds”*
+*“Architecting Resilient Infrastructures, Connecting Worlds”*
